@@ -1,6 +1,7 @@
 
 # Bayut Jobs Portal - Next.js Application
-![image](https://github.com/user-attachments/assets/e2e2e520-9dee-4f64-9393-15ac5e182908)
+![Untitled](https://github.com/user-attachments/assets/fed1ab0b-7139-4ad3-bbd5-648a07747a24)
+
 
 
 A Dubai-focused job search portal built with Next.js, TypeScript, and Tailwind CSS, integrating with the JSearch RapidAPI.
