@@ -14,7 +14,7 @@ export default function JobSearchClient({ initialJobs }: { initialJobs: JobListi
         setLoading(true);
         try {
             const jobsData = await fetchJobs({
-                query: 'developer jobs in dubai',
+                query: searchQuery,
                 country: 'ae', // UAE country code
                 page: '1',
                 num_pages: '3' // Get more results
