@@ -5,8 +5,6 @@
 
 A Dubai-focused job search portal built with Next.js, TypeScript, and Tailwind CSS, integrating with the JSearch RapidAPI.
 
-![Bayut Jobs Screenshot](./screenshot.png) *(Optional: Add screenshot later)*
-
 ## Features
 
 - Search for jobs in Dubai/UAE
